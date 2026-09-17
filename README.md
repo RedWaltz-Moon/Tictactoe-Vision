@@ -142,6 +142,5 @@ python -m compileall -q .
 
 ## 说明
 
-- 模型权重和训练数据会显著增加仓库体积；公开仓库前请确认数据中没有隐私或敏感画面。
-- `calibration.json`、`camera_calibration.npz`、`test_cropped.jpg` 等均为本机运行生成，不应提交。
-- 项目暂未声明开源许可证；若准备公开并允许他人使用，请补充合适的 `LICENSE`。
+- 模型权重和训练数据会显著增加仓库体积。
+- 本项目采用 [MIT License](LICENSE)，版权所有 © 2026 RedWaltz。
