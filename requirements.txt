@@ -1,0 +1,5 @@
+# Orange Pi AI Pro (Ascend 310B) production dependencies
+# NPU inference uses Ascend ACL (pre-installed with CANN toolkit, not via pip)
+opencv-python>=4.5.0
+numpy>=1.21.0
+pyserial>=3.5

@@ -1,0 +1,9 @@
+# 棋盘检测数据集 — 标准 YOLO detection
+
+path: data
+train: images/train
+val: images/val
+
+nc: 1
+names:
+  0: chessboard

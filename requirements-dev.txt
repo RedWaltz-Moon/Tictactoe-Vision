@@ -1,0 +1,5 @@
+# PC development dependencies (includes ultralytics for YOLO training/inference)
+opencv-python>=4.5.0
+numpy>=1.21.0
+pyserial>=3.5
+ultralytics>=8.0.0

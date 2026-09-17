@@ -1,0 +1,28 @@
+{
+  "version": "6.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chessboard",
+      "points": [
+        [
+          126.15384615384616,
+          75.0
+        ],
+        [
+          455.38461538461536,
+          401.92307692307696
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\board_20260720_162404_0139.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}
